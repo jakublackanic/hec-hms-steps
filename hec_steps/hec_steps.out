@@ -1,0 +1,4 @@
+09:56:15.453      -----DSS---zopen   New file opened,  File: D:\Work\gospace\hec_hms\projects\hec-steps\hec_steps\hec_steps.dss
+09:56:15.453                         Handle 4;  Process: 39736;  DSS Version:  7-IU
+09:56:15.453                         Single-user advisory access mode
+09:56:15.454      -----DSS---zclose  Handle 4;  Process: 39736;  File: D:\Work\gospace\hec_hms\projects\hec-steps\hec_steps\hec_steps.dss
